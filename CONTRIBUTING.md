@@ -2,3 +2,4 @@
 
 Notes and usage details for stay-booker-hotel-booking-react-frontend.
 - add a note about the defaults
+- fix a small wording issue
