@@ -12,3 +12,4 @@ Notes and usage details for stay-booker-hotel-booking-react-frontend.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- add a note about the defaults
