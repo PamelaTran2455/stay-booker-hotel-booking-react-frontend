@@ -39,3 +39,4 @@ Notes and usage details for stay-booker-hotel-booking-react-frontend.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
